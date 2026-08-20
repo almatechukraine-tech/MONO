@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:28:25Z",
+  "updatedAt": "2026-08-20T08:08:33Z",
   "total": 81,
   "data": [
     {
@@ -706,8 +706,8 @@
     },
     {
       "code": "1771055",
-      "price": 15699.0,
-      "old_price": 17640.0,
+      "price": 16690.0,
+      "old_price": 19640.0,
       "availability": true,
       "stock": 10,
       "warehouses": null,
@@ -719,7 +719,7 @@
     },
     {
       "code": "1771056",
-      "price": 17999.0,
+      "price": 17899.0,
       "old_price": 21640.0,
       "availability": true,
       "stock": 10,
