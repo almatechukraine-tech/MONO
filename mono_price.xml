@@ -10,8 +10,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>10499</my_price>
-<my_old_price>12480</my_old_price>
+<my_price>11499</my_price>
+<my_old_price>13480</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -70,8 +70,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>11195</my_price>
-<my_old_price>13380</my_old_price>
+<my_price>12399</my_price>
+<my_old_price>14380</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -122,6 +122,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771003">
 <code>1771003</code>
 <vendor_code>PR-1771003</vendor_code>
@@ -129,8 +130,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>10999</my_price>
-<my_old_price>13185</my_old_price>
+<my_price>12099</my_price>
+<my_old_price>15185</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -181,6 +182,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771004">
 <code>1771004</code>
 <vendor_code>PR-1771004</vendor_code>
@@ -188,8 +190,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>11735</my_price>
-<my_old_price>13760</my_old_price>
+<my_price>12899</my_price>
+<my_old_price>15760</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -240,6 +242,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771005">
 <code>1771005</code>
 <vendor_code>PR-1771005</vendor_code>
@@ -247,8 +250,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>12199</my_price>
-<my_old_price>14185</my_old_price>
+<my_price>13399</my_price>
+<my_old_price>16185</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -299,6 +302,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771006">
 <code>1771006</code>
 <vendor_code>PR-1771006</vendor_code>
@@ -306,8 +310,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>12899</my_price>
-<my_old_price>14960</my_old_price>
+<my_price>14170</my_price>
+<my_old_price>17960</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -358,6 +362,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771007">
 <code>1771007</code>
 <vendor_code>PR-1771007</vendor_code>
@@ -365,8 +370,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>15425</my_price>
-<my_old_price>17185</my_old_price>
+<my_price>16599</my_price>
+<my_old_price>19185</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -417,6 +422,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771008">
 <code>1771008</code>
 <vendor_code>PR-1771008</vendor_code>
@@ -424,8 +430,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>16195</my_price>
-<my_old_price>17960</my_old_price>
+<my_price>17399</my_price>
+<my_old_price>20960</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -477,6 +483,7 @@
 <weight>4</weight>
 </offer>
 <!-- Кінець i7 4770 Інтегрована -->
+
 <!-- Початок i5 4670 Інтегрована -->
 <offer id="1771009">
 <code>1771009</code>
@@ -485,8 +492,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>9499</my_price>
-<my_old_price>11699</my_old_price>
+<my_price>10799</my_price>
+<my_old_price>13699</my_old_price>
 <my_pay_in_parts>20</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -537,6 +544,7 @@
 <length>352</length>
 <weight>4</weight>
 </offer>
+
 <offer id="1771010">
 <code>1771010</code>
 <vendor_code>PR-1771010</vendor_code>
@@ -544,8 +552,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>10599</my_price>
-<my_old_price>12799</my_old_price>
+<my_price>11599</my_price>
+<my_old_price>13799</my_old_price>
 <my_pay_in_parts>20</my_pay_in_parts>
 <my_warranty>24</my_warranty>
 <image_link>
@@ -608,8 +616,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>17999</my_price>
-<my_old_price>21640</my_old_price>
+<my_price>18999</my_price>
+<my_old_price>22640</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -661,6 +669,7 @@
 <length>370</length>
 <weight>7</weight>
 </offer>
+
 <offer id="1771012">
 <code>1771012</code>
 <vendor_code>PR-1771012</vendor_code>
@@ -668,7 +677,7 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>19399</my_price>
+<my_price>20199</my_price>
 <my_old_price>23345</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
@@ -721,6 +730,7 @@
 <length>370</length>
 <weight>7</weight>
 </offer>
+
 <offer id="1771013">
 <code>1771013</code>
 <vendor_code>PR-1771013</vendor_code>
@@ -728,8 +738,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>21199</my_price>
-<my_old_price>24315</my_old_price>
+<my_price>21995</my_price>
+<my_old_price>25315</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -789,7 +799,7 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>24399</my_price>
+<my_price>25099</my_price>
 <my_old_price>28315</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
@@ -842,6 +852,7 @@
 <length>370</length>
 <weight>8</weight>
 </offer>
+
 <offer id="1771015">
 <code>1771015</code>
 <vendor_code>PR-1771015</vendor_code>
@@ -849,8 +860,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>25999</my_price>
-<my_old_price>27840</my_old_price>
+<my_price>26999</my_price>
+<my_old_price>29840</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -902,6 +913,7 @@
 <length>370</length>
 <weight>7</weight>
 </offer>
+
 <offer id="1771016">
 <code>1771016</code>
 <vendor_code>PR-1771016</vendor_code>
@@ -909,8 +921,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>27199</my_price>
-<my_old_price>28846</my_old_price>
+<my_price>28199</my_price>
+<my_old_price>29846</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -969,8 +981,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>28999</my_price>
-<my_old_price>31850</my_old_price>
+<my_price>29999</my_price>
+<my_old_price>32850</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1029,8 +1041,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>32199</my_price>
-<my_old_price>33855</my_old_price>
+<my_price>33199</my_price>
+<my_old_price>34855</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1091,8 +1103,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>18799</my_price>
-<my_old_price>22440</my_old_price>
+<my_price>19799</my_price>
+<my_old_price>23440</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1151,8 +1163,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>20199</my_price>
-<my_old_price>24145</my_old_price>
+<my_price>21199</my_price>
+<my_old_price>25145</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1211,8 +1223,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>21999</my_price>
-<my_old_price>25115</my_old_price>
+<my_price>22999</my_price>
+<my_old_price>26115</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1271,8 +1283,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>25199</my_price>
-<my_old_price>29115</my_old_price>
+<my_price>26199</my_price>
+<my_old_price>30115</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1331,8 +1343,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>26799</my_price>
-<my_old_price>28640</my_old_price>
+<my_price>27799</my_price>
+<my_old_price>29640</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1391,8 +1403,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>27999</my_price>
-<my_old_price>29646</my_old_price>
+<my_price>28999</my_price>
+<my_old_price>30646</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1451,8 +1463,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>29799</my_price>
-<my_old_price>32650</my_old_price>
+<my_price>30799</my_price>
+<my_old_price>33650</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1511,8 +1523,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>32999</my_price>
-<my_old_price>34655</my_old_price>
+<my_price>33999</my_price>
+<my_old_price>35655</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1573,8 +1585,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>19099</my_price>
-<my_old_price>22740</my_old_price>
+<my_price>20099</my_price>
+<my_old_price>23740</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1633,8 +1645,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>20499</my_price>
-<my_old_price>24445</my_old_price>
+<my_price>21499</my_price>
+<my_old_price>25445</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1686,6 +1698,7 @@
 <length>370</length>
 <weight>7</weight>
 </offer>
+
 <offer id="1771029">
 <code>1771029</code>
 <vendor_code>PR-1771029</vendor_code>
@@ -1693,8 +1706,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>22299</my_price>
-<my_old_price>25415</my_old_price>
+<my_price>23299</my_price>
+<my_old_price>26415</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1753,8 +1766,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>25499</my_price>
-<my_old_price>29415</my_old_price>
+<my_price>26499</my_price>
+<my_old_price>30415</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1813,8 +1826,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>27099</my_price>
-<my_old_price>28940</my_old_price>
+<my_price>28099</my_price>
+<my_old_price>29940</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1873,8 +1886,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>28299</my_price>
-<my_old_price>29946</my_old_price>
+<my_price>29299</my_price>
+<my_old_price>30946</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1933,8 +1946,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>30099</my_price>
-<my_old_price>32950</my_old_price>
+<my_price>31099</my_price>
+<my_old_price>33950</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -1993,8 +2006,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>33299</my_price>
-<my_old_price>34955</my_old_price>
+<my_price>34299</my_price>
+<my_old_price>35955</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2055,8 +2068,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>19999</my_price>
-<my_old_price>23640</my_old_price>
+<my_price>20999</my_price>
+<my_old_price>24640</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2115,8 +2128,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>21399</my_price>
-<my_old_price>25345</my_old_price>
+<my_price>22399</my_price>
+<my_old_price>26345</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2175,8 +2188,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>23199</my_price>
-<my_old_price>26315</my_old_price>
+<my_price>24199</my_price>
+<my_old_price>27315</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2235,8 +2248,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>26399</my_price>
-<my_old_price>30315</my_old_price>
+<my_price>27399</my_price>
+<my_old_price>31315</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2295,8 +2308,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>27999</my_price>
-<my_old_price>29840</my_old_price>
+<my_price>28999</my_price>
+<my_old_price>30840</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2355,8 +2368,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>29199</my_price>
-<my_old_price>30846</my_old_price>
+<my_price>30199</my_price>
+<my_old_price>31846</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2415,8 +2428,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>30999</my_price>
-<my_old_price>33850</my_old_price>
+<my_price>31999</my_price>
+<my_old_price>34850</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2475,8 +2488,8 @@
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
-<my_price>34199</my_price>
-<my_old_price>35855</my_old_price>
+<my_price>35199</my_price>
+<my_old_price>36855</my_old_price>
 <my_pay_in_parts>14</my_pay_in_parts>
 <my_warranty>12</my_warranty>
 <image_link>
@@ -2529,6 +2542,7 @@
 <weight>8</weight>
 </offer>
 <!-- Кінець GTX 1066 -->
+
 <!-- Початок RTX 3050 -->
 <offer id="1771043">
 <code>1771043</code>
@@ -3191,6 +3205,7 @@
 <length>370</length>
 <weight>7</weight>
 </offer>
+
 <offer id="1771054">
 <code>1771054</code>
 <vendor_code>PR-1771054</vendor_code>
