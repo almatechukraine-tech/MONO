@@ -2,11 +2,128 @@
 <Market>
 
 <offers>
+
+<offer id="1171000">
+<code>1171001</code>
+<vendor_code>PR-1171000</vendor_code>
+<barcode>4822000000028</barcode>
+<category>Геймпади</category>
+<brand>FLYDIGI</brand>
+<availability>Є в наявності</availability>
+<my_price>1970</my_price>
+<my_old_price>2399</my_old_price>
+<my_pay_in_parts>16</my_pay_in_parts>
+<my_warranty>12</my_warranty>
+<image_link>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-21.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-22.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-23.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-24.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-25.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-26.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-2.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-3.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-4.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-5.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-6.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-7.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-8.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-9.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direwolf4-10.jpg</picture>
+</image_link>
+<title>Геймпад FLYDIGI Direwolf 4 / Forceswitch Triggers /  White</title>
+
+<description><![CDATA[
+    <h5>Максимальна точність та контроль без дрифту</h5>
+    <p>Геймпад зібраний на базі інноваційних аналогових стіків <strong>ForceFlex Hall Effect</strong> з магнітною левітацією, які повністю виключають появу дрифту навіть після мільйонів ігрових сесій. Головна фішка четвертого покоління — механічне <strong>регулювання натягу стіків від 40gf до 80gf</strong> прямо на корпусі, що дозволяє ідеально налаштувати опір під шутери, гонки або файтинги.</p>
+    <br>
+    <h5>Адаптивні тригери подвійної дії</h5>
+    <p>Система <strong>ForceSwitch Triggers 2.0</strong> оснащена фізичним перемикачем на тильній панелі контролера. Ви можете миттєво переключатися між лінійним режимом <strong>Hall Effect Mode</strong> з плавним ходом для симуляторів та надшвидким кліком <strong>Micro Mode</strong> з мінімальним ходом для моментальної стрільби в шутерах.</p>
+    <br>
+    <h5>Миттєвий відгук та просунута механіка</h5>
+    <p>Високу швидкість реакції у кіберспортивних дисциплінах гарантує професійна <strong>частота опитування 1000 Гц</strong> як у дротовому, так і в бездротовому режимі. Восьмипозиційний поворотний <strong>Rotary-Pivoted D-Pad 2.0</strong> забезпечує м'яке omni-directional обертання, а основні кнопки ABXY виконані за технологією <strong>Silent Silicone</strong> для ідеально тихих та тактильних натискань.</p>
+    <br>
+    <h5>Абсолютна мультиплатформенність та кастомізація</h5>
+    <p>Контролер оснащений вбудованим <strong>6-осьовим гіроскопом</strong> для точного прицілювання нахилами та модернізованими асиметричними вібромоторами для глибокого занурення в ігровий процес. На задній панелі розташовані <strong>2 програмовані макро-кнопки</strong>. Геймпад повністю сумісний з <strong>ПК, Android, iOS та Nintendo Switch</strong>, автоматично визначаючись у системах без потреби ручного налаштування.</p>
+    <br>
+    <h5>Бездротова свобода та автономність</h5>
+    <p>Для зручності гравця підтримується повний набір інтерфейсів підключення: високошвидкісний радіоканал <strong>2.4 ГГц через донгл, Bluetooth 5.0 та дротовий USB Type-C</strong>. Енергоефективна літієва батарея ємністю <strong>800 мАг</strong> забезпечує до 15 годин безперервної гри на одному заряді. Налаштування профілів, кривих стіків та макросів здійснюється через фірмовий додаток <strong>Flydigi Space Station</strong>.</p>
+]]></description>
+
+<tags>
+<param name="Тип">Геймпад</param>
+<param name="Сумісність">PC, Android, PlayStation 4</param>
+<param name="Тип підключення">Бездротовий</param>
+<param name="Інтерфейси підключення">Bluetooth, 2.4 ГГц адаптер, USB Type-C</param>
+<param name="Живлення">Від акумулятора, Від USB</param>
+<param name="Додатково">Forceswitch Triggers 2.0, Rotary-Pivoted D-Pad 2.0, Hall Effect Mode</param>
+</tags>
+<height>65</height>
+<width>155</width>
+<length>103</length>
+<weight>0,233 кг</weight>
+</offer>
+
+<offer id="1171001">
+<code>1171001</code>
+<vendor_code>PR-1171001</vendor_code>
+<barcode>4825000000036</barcode>
+<category>Геймпади</category>
+<brand>FLYDIGI</brand>
+<availability>Є в наявності</availability>
+<my_price>2370</my_price>
+<my_old_price>3199</my_old_price>
+<my_pay_in_parts>16</my_pay_in_parts>
+<my_warranty>12</my_warranty>
+<image_link>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-01.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-02.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-03.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-04.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-05.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-06.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-07.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-08.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/direvolf4-09.jpg</picture>
+</image_link>
+<title>Геймпад FLYDIGI Direwolf 4 + Адаптер / Forceswitch Triggers /  White</title>
+
+<description><![CDATA[
+    <h5>Максимальна точність та контроль без дрифту</h5>
+    <p>Геймпад зібраний на базі інноваційних аналогових стіків <strong>ForceFlex Hall Effect</strong> з магнітною левітацією, які повністю виключають появу дрифту навіть після мільйонів ігрових сесій. Головна фішка четвертого покоління — механічне <strong>регулювання натягу стіків від 40gf до 80gf</strong> прямо на корпусі, що дозволяє ідеально налаштувати опір під шутери, гонки або файтинги.</p>
+    <br>
+    <h5>Адаптивні тригери подвійної дії</h5>
+    <p>Система <strong>ForceSwitch Triggers 2.0</strong> оснащена фізичним перемикачем на тильній панелі контролера. Ви можете миттєво переключатися між лінійним режимом <strong>Hall Effect Mode</strong> з плавним ходом для симуляторів та надшвидким кліком <strong>Micro Mode</strong> з мінімальним ходом для моментальної стрільби в шутерах.</p>
+    <br>
+    <h5>Миттєвий відгук та просунута механіка</h5>
+    <p>Високу швидкість реакції у кіберспортивних дисциплінах гарантує професійна <strong>частота опитування 1000 Гц</strong> як у дротовому, так і в бездротовому режимі. Восьмипозиційний поворотний <strong>Rotary-Pivoted D-Pad 2.0</strong> забезпечує м'яке omni-directional обертання, а основні кнопки ABXY виконані за технологією <strong>Silent Silicone</strong> для ідеально тихих та тактильних натискань.</p>
+    <br>
+    <h5>Абсолютна мультиплатформенність та кастомізація</h5>
+    <p>Контролер оснащений вбудованим <strong>6-осьовим гіроскопом</strong> для точного прицілювання нахилами та модернізованими асиметричними вібромоторами для глибокого занурення в ігровий процес. На задній панелі розташовані <strong>2 програмовані макро-кнопки</strong>. Геймпад повністю сумісний з <strong>ПК, Android, iOS та Nintendo Switch</strong>, автоматично визначаючись у системах без потреби ручного налаштування.</p>
+    <br>
+    <h5>Бездротова свобода та автономність</h5>
+    <p>Для зручності гравця підтримується повний набір інтерфейсів підключення: високошвидкісний радіоканал <strong>2.4 ГГц через донгл, Bluetooth 5.0 та дротовий USB Type-C</strong>. Енергоефективна літієва батарея ємністю <strong>800 мАг</strong> забезпечує до 15 годин безперервної гри на одному заряді. Налаштування профілів, кривих стіків та макросів здійснюється через фірмовий додаток <strong>Flydigi Space Station</strong>.</p>
+]]></description>
+
+<tags>
+<param name="Тип">Геймпад</param>
+<param name="Сумісність">PC, Android, PlayStation 4</param>
+<param name="Тип підключення">Бездротовий</param>
+<param name="Інтерфейси підключення">Bluetooth, 2.4 ГГц адаптер, USB Type-C</param>
+<param name="Живлення">Від акумулятора, Від USB</param>
+<param name="Додатково">Forceswitch Triggers 2.0, Rotary-Pivoted D-Pad 2.0, Hall Effect Mode, Адаптер Windows у комплектi</param>
+</tags>
+<height>65</height>
+<width>155</width>
+<length>103</length>
+<weight>0,233 кг</weight>
+</offer>
+
 <!-- Початок i7 4770 Інтегрована -->
 <offer id="1771001">
 <code>1771001</code>
 <vendor_code>PR-1771001</vendor_code>
-<barcode>4822000000028</barcode>
+<barcode>4825000000043</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
