@@ -3,9 +3,9 @@
 
 <offers>
 
-<offer id="1171000">
-<code>1171001</code>
-<vendor_code>PR-1171000</vendor_code>
+<offer id="1281001">
+<code>1281001</code>
+<vendor_code>PR-1281001</vendor_code>
 <barcode>4822000000028</barcode>
 <category>Геймпади</category>
 <brand>FLYDIGI</brand>
@@ -64,9 +64,9 @@
 <weight>0,233 кг</weight>
 </offer>
 
-<offer id="1171001">
-<code>1171001</code>
-<vendor_code>PR-1171001</vendor_code>
+<offer id="1281002">
+<code>1281002</code>
+<vendor_code>PR-1281002</vendor_code>
 <barcode>4825000000036</barcode>
 <category>Геймпади</category>
 <brand>FLYDIGI</brand>

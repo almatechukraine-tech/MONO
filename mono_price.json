@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T08:47:36Z",
+  "updatedAt": "2026-08-31T09:32:38Z",
   "total": 185,
   "data": [
     {
-      "code": "1171000",
+      "code": "1281001",
       "price": 1970.0,
       "old_price": 2399.0,
       "availability": true,
@@ -16,7 +16,7 @@
       "manufacture": null
     },
     {
-      "code": "1171001",
+      "code": "1281002",
       "price": 2370.0,
       "old_price": 3199.0,
       "availability": true,
