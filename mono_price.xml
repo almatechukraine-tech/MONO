@@ -119,11 +119,68 @@
 <weight>0,233 кг</weight>
 </offer>
 
+<offer id="1281003">
+<code>1281003</code>
+<vendor_code>PR-1281003</vendor_code>
+<barcode>4825000000043</barcode>
+<category>Геймпади</category>
+<brand>FLYDIGI</brand>
+<availability>Є в наявності</availability>
+<my_price>5299</my_price>
+<my_old_price>5999</my_old_price>
+<my_pay_in_parts>16</my_pay_in_parts>
+<my_warranty>12</my_warranty>
+<image_link>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-1.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-2.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-3.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-4.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-5.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-6.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-7.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-8.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-9.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-10.jpg</picture>
+<picture>https://almatech.com.ua/files/rozetka/Vader5pro-11.jpg</picture>
+</image_link>
+<title>Геймпад FLYDIGI Vader 5 PRO + Адаптер + Курки-тригери</title>
+
+<description><![CDATA[
+<h5>Максимальна точність та контроль без дрифту</h5>
+<p>Геймпад зібраний на базі інноваційних аналогових стіків <strong>ForceFlex Hall Effect</strong> з магнітною левітацією, які повністю виключають появу дрифту навіть після мільйонів ігрових сесій. Головна фішка п'ятого покоління — механічне регулювання натягу стіків від <strong>40gf до 100gf</strong> прямо на корпусі, що дозволяє ідеально налаштувати опір під шутери, гонки або файтинги.</p>
+<br>
+<h5>Адаптивні тригери подвійної дії</h5>
+<p>Система <strong>ForceSwitch Triggers 2.0</strong> оснащена фізичним перемикачем на тильній панелі контролера. Ви можете миттєво переключатися між лінійним режимом <strong>Hall Effect Mode</strong> з плавним ходом для симуляторів та надшвидким кліком <strong>Micro Mode</strong> з мінімальним ходом для моментальної стрільби в шутерах.</p>
+<br>
+<h5>Миттєвий відгук та просунута механіка</h5>
+<p>Високу швидкість реакції у кіберспортивних дисциплінах гарантує професійна частота опитування <strong>1000 Гц</strong> як у дротовому, так і в бездротовому режимі. Восьмипозиційний поворотний D-Pad 2.0 забезпечує м'яке omni-directional обертання без помилкових перехресних спрацьовувань, а основні кнопки ABXY 2.0 виконані за технологією <strong>Mechanical Clicky</strong> для чітких, миттєвих та тактильних натискань.</p>
+<br>
+<h5>Абсолютна мультиплатформенність та кастомізація</h5>
+<p>Контролер оснащений вбудованим <strong>6-осьовим гіроскопом</strong> для точного прицілювання нахилами та модернізованою системою з 4 вібромоторів для глибокого занурення в ігровий процес. На корпусі розташовані <strong>8 додаткових програмованих кнопок</strong> (включаючи 4 задні пелюстки, плечові тригери та CZ кнопки). Геймпад повністю сумісний з <strong>ПК, Android, iOS, Steam Deck та Nintendo Switch</strong>, автоматично визначаючись у системах без потреби ручного налаштування.</p>
+<br>
+<h5>Бездротова свобода та автономність</h5>
+<p>Для зручності гравця підтримується повний набір інтерфейсів підключення: високошвидкісний радіоканал <strong>2.4 ГГц</strong> через донгл, Bluetooth 5.0 та дротовий USB Type-C. Енергоефективна літієва батарея збільшеної ємності <strong>1000 мАг</strong> забезпечує до 15 годин безперервної гри на одному заряді. Налаштування профілів, кривих стіків та макросів здійснюється в режимі реального часу через фірмовий додаток <strong>Flydigi Space Station 4.0</strong>. Також підтримується робота з фірмовою док-станцією з RGB-екраном.</p>
+]]></description>
+
+<tags>
+<param name="Тип">Геймпад</param>
+<param name="Сумісність">PC, Android, PlayStation 4, iOS, Steam Deck, Nintendo Switch</param>
+<param name="Тип підключення">Бездротовий</param>
+<param name="Інтерфейси підключення">Bluetooth, 2.4 ГГц адаптер, USB Type-C</param>
+<param name="Живлення">Від акумулятора, Від USB</param>
+<param name="Додатково">ForceSwitch Triggers 2.0, Rotary-Pivoted D-Pad 2.0, Hall Effect Mode, Адаптер 2.4 ГГц для Windows у комплектi</param>
+</tags>
+<height>65</height>
+<width>155</width>
+<length>104</length>
+<weight>0,289 кг</weight>
+</offer>
+
 <!-- Початок i7 4770 Інтегрована -->
 <offer id="1771001">
 <code>1771001</code>
 <vendor_code>PR-1771001</vendor_code>
-<barcode>4825000000043</barcode>
+<barcode>4825000000050</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11465,7 +11522,7 @@
 <offer id="1771192">
 <code>1771192</code>
 <vendor_code>PR-1771192</vendor_code>
-<barcode>4825000001873</barcode>
+<barcode>4825000001880</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11531,7 +11588,7 @@
 <offer id="1771193">
 <code>1771193</code>
 <vendor_code>PR-1771193</vendor_code>
-<barcode>4825000001880</barcode>
+<barcode>4825000001897</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11597,7 +11654,7 @@
 <offer id="1771194">
 <code>1771194</code>
 <vendor_code>PR-1771194</vendor_code>
-<barcode>4825000001897</barcode>
+<barcode>4825000001903</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11663,7 +11720,7 @@
 <offer id="1771195">
 <code>1771195</code>
 <vendor_code>PR-1771195</vendor_code>
-<barcode>4825000001903</barcode>
+<barcode>4825000001910</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11729,7 +11786,7 @@
 <offer id="1771196">
 <code>1771196</code>
 <vendor_code>PR-1771196</vendor_code>
-<barcode>4825000001910</barcode>
+<barcode>4825000001927</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11795,7 +11852,7 @@
 <offer id="1771197">
 <code>1771197</code>
 <vendor_code>PR-1771197</vendor_code>
-<barcode>4825000001927</barcode>
+<barcode>4825000001934</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11861,7 +11918,7 @@
 <offer id="1771198">
 <code>1771198</code>
 <vendor_code>PR-1771198</vendor_code>
-<barcode>4825000001934</barcode>
+<barcode>4825000001941</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11927,7 +11984,7 @@
 <offer id="1771199">
 <code>1771199</code>
 <vendor_code>PR-1771199</vendor_code>
-<barcode>4825000001941</barcode>
+<barcode>4825000001958</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -11995,7 +12052,7 @@
 <offer id="1771200">
 <code>1771200</code>
 <vendor_code>PR-1771200</vendor_code>
-<barcode>4825000001958</barcode>
+<barcode>4825000001965</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12060,7 +12117,7 @@
 <offer id="1771201">
 <code>1771201</code>
 <vendor_code>PR-1771201</vendor_code>
-<barcode>4825000001965</barcode>
+<barcode>4825000001972</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12126,7 +12183,7 @@
 <offer id="1771202">
 <code>1771202</code>
 <vendor_code>PR-1771202</vendor_code>
-<barcode>4825000001972</barcode>
+<barcode>4825000001989</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12192,7 +12249,7 @@
 <offer id="1771203">
 <code>1771203</code>
 <vendor_code>PR-1771203</vendor_code>
-<barcode>4825000001989</barcode>
+<barcode>4825000001996</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12258,7 +12315,7 @@
 <offer id="1771204">
 <code>1771204</code>
 <vendor_code>PR-1771204</vendor_code>
-<barcode>4825000001996</barcode>
+<barcode>4825000002009</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12324,7 +12381,7 @@
 <offer id="1771205">
 <code>1771205</code>
 <vendor_code>PR-1771205</vendor_code>
-<barcode>4825000002009</barcode>
+<barcode>4825000002016</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12390,7 +12447,7 @@
 <offer id="1771206">
 <code>1771206</code>
 <vendor_code>PR-1771206</vendor_code>
-<barcode>4825000002016</barcode>
+<barcode>4825000002023</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12456,7 +12513,7 @@
 <offer id="1771207">
 <code>1771207</code>
 <vendor_code>PR-1771207</vendor_code>
-<barcode>4825000002023</barcode>
+<barcode>4825000002030</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12524,7 +12581,7 @@
 <offer id="1771208">
 <code>1771208</code>
 <vendor_code>PR-1771208</vendor_code>
-<barcode>4825000002030</barcode>
+<barcode>4825000002047</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12590,7 +12647,7 @@
 <offer id="1771209">
 <code>1771209</code>
 <vendor_code>PR-1771209</vendor_code>
-<barcode>4825000002047</barcode>
+<barcode>4825000002054</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12656,7 +12713,7 @@
 <offer id="1771210">
 <code>1771210</code>
 <vendor_code>PR-1771210</vendor_code>
-<barcode>4825000002054</barcode>
+<barcode>4825000002061</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12722,7 +12779,7 @@
 <offer id="1771211">
 <code>1771211</code>
 <vendor_code>PR-1771211</vendor_code>
-<barcode>4825000002061</barcode>
+<barcode>4825000002078</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12788,7 +12845,7 @@
 <offer id="1771212">
 <code>1771212</code>
 <vendor_code>PR-1771212</vendor_code>
-<barcode>4825000002078</barcode>
+<barcode>4825000002085</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12854,7 +12911,7 @@
 <offer id="1771213">
 <code>1771213</code>
 <vendor_code>PR-1771213</vendor_code>
-<barcode>4825000002085</barcode>
+<barcode>4825000002092</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12919,7 +12976,7 @@
 <offer id="1771214">
 <code>1771214</code>
 <vendor_code>PR-1771214</vendor_code>
-<barcode>4825000002092</barcode>
+<barcode>4825000002108</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -12985,7 +13042,7 @@
 <offer id="1771215">
 <code>1771215</code>
 <vendor_code>PR-1771215</vendor_code>
-<barcode>4825000002108</barcode>
+<barcode>4825000002115</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13053,7 +13110,7 @@
 <offer id="1771216">
 <code>1771216</code>
 <vendor_code>PR-1771216</vendor_code>
-<barcode>4825000002115</barcode>
+<barcode>4825000002122</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13118,7 +13175,7 @@
 <offer id="1771217">
 <code>1771217</code>
 <vendor_code>PR-1771217</vendor_code>
-<barcode>4825000002122</barcode>
+<barcode>4825000002139</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13184,7 +13241,7 @@
 <offer id="1771218">
 <code>1771218</code>
 <vendor_code>PR-1771218</vendor_code>
-<barcode>4825000002139</barcode>
+<barcode>4825000002146</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13250,7 +13307,7 @@
 <offer id="1771219">
 <code>1771219</code>
 <vendor_code>PR-1771219</vendor_code>
-<barcode>4825000002146</barcode>
+<barcode>4825000002153</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13316,7 +13373,7 @@
 <offer id="1771220">
 <code>1771220</code>
 <vendor_code>PR-1771220</vendor_code>
-<barcode>4825000002153</barcode>
+<barcode>4825000002160</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13382,7 +13439,7 @@
 <offer id="1771221">
 <code>1771221</code>
 <vendor_code>PR-1771221</vendor_code>
-<barcode>4825000002160</barcode>
+<barcode>4825000002177</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13448,7 +13505,7 @@
 <offer id="1771222">
 <code>1771222</code>
 <vendor_code>PR-1771222</vendor_code>
-<barcode>4825000002177</barcode>
+<barcode>4825000002184</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13514,7 +13571,7 @@
 <offer id="1771223">
 <code>1771223</code>
 <vendor_code>PR-1771223</vendor_code>
-<barcode>4825000002184</barcode>
+<barcode>4825000002191</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13582,7 +13639,7 @@
 <offer id="1771224">
 <code>1771224</code>
 <vendor_code>PR-1771224</vendor_code>
-<barcode>4825000002191</barcode>
+<barcode>4825000002207</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13648,7 +13705,7 @@
 <offer id="1771225">
 <code>1771225</code>
 <vendor_code>PR-1771225</vendor_code>
-<barcode>4825000002207</barcode>
+<barcode>4825000002214</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13713,7 +13770,7 @@
 <offer id="1771226">
 <code>1771226</code>
 <vendor_code>PR-1771226</vendor_code>
-<barcode>4825000002214</barcode>
+<barcode>4825000002221</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13779,7 +13836,7 @@
 <offer id="1771227">
 <code>1771227</code>
 <vendor_code>PR-1771227</vendor_code>
-<barcode>4825000002221</barcode>
+<barcode>4825000002238</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13845,7 +13902,7 @@
 <offer id="1771228">
 <code>1771228</code>
 <vendor_code>PR-1771228</vendor_code>
-<barcode>4825000002238</barcode>
+<barcode>4825000002245</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13911,7 +13968,7 @@
 <offer id="1771229">
 <code>1771229</code>
 <vendor_code>PR-1771229</vendor_code>
-<barcode>4825000002245</barcode>
+<barcode>4825000002252</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -13977,7 +14034,7 @@
 <offer id="1771230">
 <code>1771230</code>
 <vendor_code>PR-1771230</vendor_code>
-<barcode>4825000002252</barcode>
+<barcode>4825000002269</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14043,7 +14100,7 @@
 <offer id="1771231">
 <code>1771231</code>
 <vendor_code>PR-1771231</vendor_code>
-<barcode>4825000002269</barcode>
+<barcode>4825000002276</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14111,7 +14168,7 @@
 <offer id="1771232">
 <code>1771232</code>
 <vendor_code>PR-1771232</vendor_code>
-<barcode>4825000002276</barcode>
+<barcode>4825000002283</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14176,7 +14233,7 @@
 <offer id="1771233">
 <code>1771233</code>
 <vendor_code>PR-1771233</vendor_code>
-<barcode>4825000002283</barcode>
+<barcode>4825000002290</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14243,7 +14300,7 @@
 <offer id="1771234">
 <code>1771234</code>
 <vendor_code>PR-1771234</vendor_code>
-<barcode>4825000002290</barcode>
+<barcode>4825000002306</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14308,7 +14365,7 @@
 <offer id="1771235">
 <code>1771235</code>
 <vendor_code>PR-1771235</vendor_code>
-<barcode>4825000002306</barcode>
+<barcode>4825000002313</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14375,7 +14432,7 @@
 <offer id="1771236">
 <code>1771236</code>
 <vendor_code>PR-1771236</vendor_code>
-<barcode>4825000002313</barcode>
+<barcode>4825000002320</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14441,7 +14498,7 @@
 <offer id="1771237">
 <code>1771237</code>
 <vendor_code>PR-1771237</vendor_code>
-<barcode>4825000002320</barcode>
+<barcode>4825000002337</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14507,7 +14564,7 @@
 <offer id="1771238">
 <code>1771238</code>
 <vendor_code>PR-1771238</vendor_code>
-<barcode>4825000002337</barcode>
+<barcode>4825000002344</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14572,7 +14629,7 @@
 <offer id="1771239">
 <code>1771239</code>
 <vendor_code>PR-1771239</vendor_code>
-<barcode>4825000002344</barcode>
+<barcode>4825000002351</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14637,7 +14694,7 @@
 <offer id="1771240">
 <code>1771240</code>
 <vendor_code>PR-1771240</vendor_code>
-<barcode>4825000002351</barcode>
+<barcode>4825000002368</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14703,7 +14760,7 @@
 <offer id="1771241">
 <code>1771241</code>
 <vendor_code>PR-1771241</vendor_code>
-<barcode>4825000002368</barcode>
+<barcode>4825000002375</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14768,7 +14825,7 @@
 <offer id="1771242">
 <code>1771242</code>
 <vendor_code>PR-1771242</vendor_code>
-<barcode>4825000002375</barcode>
+<barcode>4825000002382</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14834,7 +14891,7 @@
 <offer id="1771243">
 <code>1771243</code>
 <vendor_code>PR-1771243</vendor_code>
-<barcode>4825000002382</barcode>
+<barcode>4825000002399</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14900,7 +14957,7 @@
 <offer id="1771244">
 <code>1771244</code>
 <vendor_code>PR-1771244</vendor_code>
-<barcode>4825000002399</barcode>
+<barcode>4825000002405</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -14969,7 +15026,7 @@
 <offer id="1771245">
 <code>1771245</code>
 <vendor_code>PR-1771245</vendor_code>
-<barcode>4825000002405</barcode>
+<barcode>4825000002412</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15034,7 +15091,7 @@
 <offer id="1771246">
 <code>1771246</code>
 <vendor_code>PR-1771246</vendor_code>
-<barcode>4825000002412</barcode>
+<barcode>4825000002429</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15099,7 +15156,7 @@
 <offer id="1771247">
 <code>1771247</code>
 <vendor_code>PR-1771247</vendor_code>
-<barcode>4825000002429</barcode>
+<barcode>4825000002436</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15168,7 +15225,7 @@
 <offer id="1771248">
 <code>1771248</code>
 <vendor_code>PR-1771248</vendor_code>
-<barcode>4825000002436</barcode>
+<barcode>4825000002443</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15233,7 +15290,7 @@
 <offer id="1771249">
 <code>1771249</code>
 <vendor_code>PR-1771249</vendor_code>
-<barcode>4825000002443</barcode>
+<barcode>4825000002450</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15298,7 +15355,7 @@
 <offer id="1771250">
 <code>1771250</code>
 <vendor_code>PR-1771250</vendor_code>
-<barcode>4825000002450</barcode>
+<barcode>4825000002467</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15367,7 +15424,7 @@
 <offer id="1771251">
 <code>1771251</code>
 <vendor_code>PR-1771251</vendor_code>
-<barcode>4825000002467</barcode>
+<barcode>4825000002474</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15432,7 +15489,7 @@
 <offer id="1771252">
 <code>1771252</code>
 <vendor_code>PR-1771252</vendor_code>
-<barcode>4825000002474</barcode>
+<barcode>4825000002481</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15497,7 +15554,7 @@
 <offer id="1771253">
 <code>1771253</code>
 <vendor_code>PR-1771253</vendor_code>
-<barcode>4825000002481</barcode>
+<barcode>4825000002498</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15565,7 +15622,7 @@
 <offer id="1771254">
 <code>1771254</code>
 <vendor_code>PR-1771254</vendor_code>
-<barcode>4825000002498</barcode>
+<barcode>4825000002504</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15631,7 +15688,7 @@
 <offer id="1771255">
 <code>1771255</code>
 <vendor_code>PR-1771255</vendor_code>
-<barcode>4825000002504</barcode>
+<barcode>4825000002511</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15697,7 +15754,7 @@
 <offer id="1771256">
 <code>1771256</code>
 <vendor_code>PR-1771256</vendor_code>
-<barcode>4825000002511</barcode>
+<barcode>4825000002528</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15763,7 +15820,7 @@
 <offer id="1771257">
 <code>1771257</code>
 <vendor_code>PR-1771257</vendor_code>
-<barcode>4825000002528</barcode>
+<barcode>4825000002535</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15829,7 +15886,7 @@
 <offer id="1771258">
 <code>1771258</code>
 <vendor_code>PR-1771258</vendor_code>
-<barcode>4825000002535</barcode>
+<barcode>4825000002542</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15894,7 +15951,7 @@
 <offer id="1771259">
 <code>1771259</code>
 <vendor_code>PR-1771259</vendor_code>
-<barcode>4825000002542</barcode>
+<barcode>4825000002559</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -15960,7 +16017,7 @@
 <offer id="1771260">
 <code>1771260</code>
 <vendor_code>PR-1771260</vendor_code>
-<barcode>4825000002559</barcode>
+<barcode>4825000002566</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16026,7 +16083,7 @@
 <offer id="1771261">
 <code>1771261</code>
 <vendor_code>PR-1771261</vendor_code>
-<barcode>4825000002566</barcode>
+<barcode>4825000002573</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16092,7 +16149,7 @@
 <offer id="1771262">
 <code>1771262</code>
 <vendor_code>PR-1771262</vendor_code>
-<barcode>4825000002573</barcode>
+<barcode>4825000002580</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16158,7 +16215,7 @@
 <offer id="1771263">
 <code>1771263</code>
 <vendor_code>PR-1771263</vendor_code>
-<barcode>4825000002580</barcode>
+<barcode>4825000002597</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16223,7 +16280,7 @@
 <offer id="1771264">
 <code>1771264</code>
 <vendor_code>PR-1771264</vendor_code>
-<barcode>4825000002597</barcode>
+<barcode>4825000002603</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16289,7 +16346,7 @@
 <offer id="1771265">
 <code>1771265</code>
 <vendor_code>PR-1771265</vendor_code>
-<barcode>4825000002603</barcode>
+<barcode>4825000002610</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16355,7 +16412,7 @@
 <offer id="1771266">
 <code>1771266</code>
 <vendor_code>PR-1771266</vendor_code>
-<barcode>4825000002610</barcode>
+<barcode>4825000002627</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16421,7 +16478,7 @@
 <offer id="1771267">
 <code>1771267</code>
 <vendor_code>PR-1771267</vendor_code>
-<barcode>4825000002627</barcode>
+<barcode>4825000002634</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16487,7 +16544,7 @@
 <offer id="1771268">
 <code>1771268</code>
 <vendor_code>PR-1771268</vendor_code>
-<barcode>4825000002634</barcode>
+<barcode>4825000002641</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16553,7 +16610,7 @@
 <offer id="1771269">
 <code>1771269</code>
 <vendor_code>PR-1771269</vendor_code>
-<barcode>4825000002641</barcode>
+<barcode>4825000002658</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16619,7 +16676,7 @@
 <offer id="1771270">
 <code>1771270</code>
 <vendor_code>PR-1771270</vendor_code>
-<barcode>4825000002658</barcode>
+<barcode>4825000002665</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16685,7 +16742,7 @@
 <offer id="1771271">
 <code>1771271</code>
 <vendor_code>PR-1771271</vendor_code>
-<barcode>4825000002665</barcode>
+<barcode>4825000002672</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16751,7 +16808,7 @@
 <offer id="1771272">
 <code>1771272</code>
 <vendor_code>PR-1771272</vendor_code>
-<barcode>4825000002672</barcode>
+<barcode>4825000002689</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16817,7 +16874,7 @@
 <offer id="1771273">
 <code>1771273</code>
 <vendor_code>PR-1771273</vendor_code>
-<barcode>4825000002689</barcode>
+<barcode>4825000002696</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16883,7 +16940,7 @@
 <offer id="1771274">
 <code>1771274</code>
 <vendor_code>PR-1771274</vendor_code>
-<barcode>4825000002696</barcode>
+<barcode>4825000002702</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -16948,7 +17005,7 @@
 <offer id="1771275">
 <code>1771275</code>
 <vendor_code>PR-1771275</vendor_code>
-<barcode>4825000002702</barcode>
+<barcode>4825000002719</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17013,7 +17070,7 @@
 <offer id="1771276">
 <code>1771276</code>
 <vendor_code>PR-1771276</vendor_code>
-<barcode>4825000002719</barcode>
+<barcode>4825000002726</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17078,7 +17135,7 @@
 <offer id="1771277">
 <code>1771277</code>
 <vendor_code>PR-1771277</vendor_code>
-<barcode>4825000002726</barcode>
+<barcode>4825000002733</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17144,7 +17201,7 @@
 <offer id="1771278">
 <code>1771278</code>
 <vendor_code>PR-1771278</vendor_code>
-<barcode>4825000002733</barcode>
+<barcode>4825000002740</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17209,7 +17266,7 @@
 <offer id="1771279">
 <code>1771279</code>
 <vendor_code>PR-1771279</vendor_code>
-<barcode>4825000002740</barcode>
+<barcode>4825000002757</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17274,7 +17331,7 @@
 <offer id="1771280">
 <code>1771280</code>
 <vendor_code>PR-1771280</vendor_code>
-<barcode>4825000002757</barcode>
+<barcode>4825000002764</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17339,7 +17396,7 @@
 <offer id="1771281">
 <code>1771281</code>
 <vendor_code>PR-1771281</vendor_code>
-<barcode>4825000002764</barcode>
+<barcode>4825000002771</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17404,7 +17461,7 @@
 <offer id="1771282">
 <code>1771282</code>
 <vendor_code>PR-1771282</vendor_code>
-<barcode>4825000002771</barcode>
+<barcode>4825000002788</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17469,7 +17526,7 @@
 <offer id="1771283">
 <code>1771283</code>
 <vendor_code>PR-1771283</vendor_code>
-<barcode>4825000002788</barcode>
+<barcode>4825000002795</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17534,7 +17591,7 @@
 <offer id="1771284">
 <code>1771284</code>
 <vendor_code>PR-1771284</vendor_code>
-<barcode>4825000002795</barcode>
+<barcode>4825000002801</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17599,7 +17656,7 @@
 <offer id="1771285">
 <code>1771285</code>
 <vendor_code>PR-1771285</vendor_code>
-<barcode>4825000002801</barcode>
+<barcode>4825000002818</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17664,7 +17721,7 @@
 <offer id="1771286">
 <code>1771286</code>
 <vendor_code>PR-1771286</vendor_code>
-<barcode>4825000002818</barcode>
+<barcode>4825000002825</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17733,7 +17790,7 @@
 <offer id="1771287">
 <code>1771287</code>
 <vendor_code>PR-1771287</vendor_code>
-<barcode>4825000002825</barcode>
+<barcode>4825000002832</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17799,7 +17856,7 @@
 <offer id="1771288">
 <code>1771288</code>
 <vendor_code>PR-1771288</vendor_code>
-<barcode>4825000002832</barcode>
+<barcode>4825000002849</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17865,7 +17922,7 @@
 <offer id="1771289">
 <code>1771289</code>
 <vendor_code>PR-1771289</vendor_code>
-<barcode>4825000002849</barcode>
+<barcode>4825000002856</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17931,7 +17988,7 @@
 <offer id="1771290">
 <code>1771290</code>
 <vendor_code>PR-1771290</vendor_code>
-<barcode>4825000002856</barcode>
+<barcode>4825000002863</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -17997,7 +18054,7 @@
 <offer id="1771291">
 <code>1771291</code>
 <vendor_code>PR-1771291</vendor_code>
-<barcode>4825000002863</barcode>
+<barcode>4825000002870</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18063,7 +18120,7 @@
 <offer id="1771292">
 <code>1771292</code>
 <vendor_code>PR-1771292</vendor_code>
-<barcode>4825000002870</barcode>
+<barcode>4825000002887</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18129,7 +18186,7 @@
 <offer id="1771293">
 <code>1771293</code>
 <vendor_code>PR-1771293</vendor_code>
-<barcode>4825000002887</barcode>
+<barcode>4825000002894</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18195,7 +18252,7 @@
 <offer id="1771294">
 <code>1771294</code>
 <vendor_code>PR-1771294</vendor_code>
-<barcode>4825000002894</barcode>
+<barcode>4825000002900</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18261,7 +18318,7 @@
 <offer id="1771295">
 <code>1771295</code>
 <vendor_code>PR-1771295</vendor_code>
-<barcode>4825000002900</barcode>
+<barcode>4825000002917</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18327,7 +18384,7 @@
 <offer id="1771296">
 <code>1771296</code>
 <vendor_code>PR-1771296</vendor_code>
-<barcode>4825000002917</barcode>
+<barcode>4825000002924</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18393,7 +18450,7 @@
 <offer id="1771297">
 <code>1771297</code>
 <vendor_code>PR-1771297</vendor_code>
-<barcode>4825000002924</barcode>
+<barcode>4825000002931</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18459,7 +18516,7 @@
 <offer id="1771298">
 <code>1771298</code>
 <vendor_code>PR-1771298</vendor_code>
-<barcode>4825000002931</barcode>
+<barcode>4825000002948</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18525,7 +18582,7 @@
 <offer id="1771299">
 <code>1771299</code>
 <vendor_code>PR-1771299</vendor_code>
-<barcode>4825000002948</barcode>
+<barcode>4825000002955</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18591,7 +18648,7 @@
 <offer id="1771300">
 <code>1771300</code>
 <vendor_code>PR-1771300</vendor_code>
-<barcode>4825000002955</barcode>
+<barcode>4825000002962</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18657,7 +18714,7 @@
 <offer id="1771301">
 <code>1771301</code>
 <vendor_code>PR-1771301</vendor_code>
-<barcode>4825000002962</barcode>
+<barcode>4825000002979</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18723,7 +18780,7 @@
 <offer id="1771302">
 <code>1771302</code>
 <vendor_code>PR-1771302</vendor_code>
-<barcode>4825000002979</barcode>
+<barcode>4825000002986</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18789,7 +18846,7 @@
 <offer id="1771303">
 <code>1771303</code>
 <vendor_code>PR-1771303</vendor_code>
-<barcode>4825000002986</barcode>
+<barcode>4825000002993</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18855,7 +18912,7 @@
 <offer id="1771304">
 <code>1771304</code>
 <vendor_code>PR-1771304</vendor_code>
-<barcode>4825000002993</barcode>
+<barcode>4825000003006</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18921,7 +18978,7 @@
 <offer id="1771305">
 <code>1771305</code>
 <vendor_code>PR-1771305</vendor_code>
-<barcode>4825000003006</barcode>
+<barcode>4825000003013</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -18987,7 +19044,7 @@
 <offer id="1771306">
 <code>1771306</code>
 <vendor_code>PR-1771306</vendor_code>
-<barcode>4825000003013</barcode>
+<barcode>4825000003020</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19053,7 +19110,7 @@
 <offer id="1771307">
 <code>1771307</code>
 <vendor_code>PR-1771307</vendor_code>
-<barcode>4825000003020</barcode>
+<barcode>4825000003037</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19119,7 +19176,7 @@
 <offer id="1771308">
 <code>1771308</code>
 <vendor_code>PR-1771308</vendor_code>
-<barcode>4825000003037</barcode>
+<barcode>4825000003044</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19185,7 +19242,7 @@
 <offer id="1771309">
 <code>1771309</code>
 <vendor_code>PR-1771309</vendor_code>
-<barcode>4825000003044</barcode>
+<barcode>4825000003051</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19251,7 +19308,7 @@
 <offer id="1771310">
 <code>1771310</code>
 <vendor_code>PR-1771310</vendor_code>
-<barcode>4825000003051</barcode>
+<barcode>4825000003068</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19317,7 +19374,7 @@
 <offer id="1771311">
 <code>1771311</code>
 <vendor_code>PR-1771311</vendor_code>
-<barcode>4825000003068</barcode>
+<barcode>4825000003075</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19382,7 +19439,7 @@
 <offer id="1771312">
 <code>1771312</code>
 <vendor_code>PR-1771312</vendor_code>
-<barcode>4825000003075</barcode>
+<barcode>4825000003082</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19447,7 +19504,7 @@
 <offer id="1771313">
 <code>1771313</code>
 <vendor_code>PR-1771313</vendor_code>
-<barcode>4825000003082</barcode>
+<barcode>4825000003099</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19512,7 +19569,7 @@
 <offer id="1771314">
 <code>1771314</code>
 <vendor_code>PR-1771314</vendor_code>
-<barcode>4825000003099</barcode>
+<barcode>4825000003105</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19578,7 +19635,7 @@
 <offer id="1771315">
 <code>1771315</code>
 <vendor_code>PR-1771315</vendor_code>
-<barcode>4825000003105</barcode>
+<barcode>4825000003112</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19644,7 +19701,7 @@
 <offer id="1771316">
 <code>1771316</code>
 <vendor_code>PR-1771316</vendor_code>
-<barcode>4825000003112</barcode>
+<barcode>4825000003129</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19710,7 +19767,7 @@
 <offer id="1771317">
 <code>1771317</code>
 <vendor_code>PR-1771317</vendor_code>
-<barcode>4825000003129</barcode>
+<barcode>4825000003136</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19776,7 +19833,7 @@
 <offer id="1771318">
 <code>1771318</code>
 <vendor_code>PR-1771318</vendor_code>
-<barcode>4825000003136</barcode>
+<barcode>4825000003143</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19842,7 +19899,7 @@
 <offer id="1771319">
 <code>1771319</code>
 <vendor_code>PR-1771319</vendor_code>
-<barcode>4825000003143</barcode>
+<barcode>4825000003150</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19908,7 +19965,7 @@
 <offer id="1771320">
 <code>1771320</code>
 <vendor_code>PR-1771320</vendor_code>
-<barcode>4825000003150</barcode>
+<barcode>4825000003167</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -19974,7 +20031,7 @@
 <offer id="1771321">
 <code>1771321</code>
 <vendor_code>PR-1771321</vendor_code>
-<barcode>4825000003167</barcode>
+<barcode>4825000003174</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20040,7 +20097,7 @@
 <offer id="1771322">
 <code>1771322</code>
 <vendor_code>PR-1771322</vendor_code>
-<barcode>4825000003174</barcode>
+<barcode>4825000003181</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20106,7 +20163,7 @@
 <offer id="1771323">
 <code>1771323</code>
 <vendor_code>PR-1771323</vendor_code>
-<barcode>4825000003181</barcode>
+<barcode>4825000003198</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20172,7 +20229,7 @@
 <offer id="1771324">
 <code>1771324</code>
 <vendor_code>PR-1771324</vendor_code>
-<barcode>4825000003198</barcode>
+<barcode>4825000003204</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20238,7 +20295,7 @@
 <offer id="1771325">
 <code>1771325</code>
 <vendor_code>PR-1771325</vendor_code>
-<barcode>4825000003204</barcode>
+<barcode>4825000003211</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20304,7 +20361,7 @@
 <offer id="1771326">
 <code>1771326</code>
 <vendor_code>PR-1771326</vendor_code>
-<barcode>4825000003211</barcode>
+<barcode>4825000003228</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20370,7 +20427,7 @@
 <offer id="1771327">
 <code>1771327</code>
 <vendor_code>PR-1771327</vendor_code>
-<barcode>4825000003228</barcode>
+<barcode>4825000003235</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20436,7 +20493,7 @@
 <offer id="1771328">
 <code>1771328</code>
 <vendor_code>PR-1771328</vendor_code>
-<barcode>4825000003235</barcode>
+<barcode>4825000003242</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20502,7 +20559,7 @@
 <offer id="1771329">
 <code>1771329</code>
 <vendor_code>PR-1771329</vendor_code>
-<barcode>4825000003242</barcode>
+<barcode>4825000003259</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20568,7 +20625,7 @@
 <offer id="1771330">
 <code>1771330</code>
 <vendor_code>PR-1771330</vendor_code>
-<barcode>4825000003259</barcode>
+<barcode>4825000003266</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20634,7 +20691,7 @@
 <offer id="1771331">
 <code>1771331</code>
 <vendor_code>PR-1771331</vendor_code>
-<barcode>4825000003266</barcode>
+<barcode>4825000003273</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20700,7 +20757,7 @@
 <offer id="1771332">
 <code>1771332</code>
 <vendor_code>PR-1771332</vendor_code>
-<barcode>4825000003273</barcode>
+<barcode>4825000003280</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20766,7 +20823,7 @@
 <offer id="1771333">
 <code>1771333</code>
 <vendor_code>PR-1771333</vendor_code>
-<barcode>4825000003280</barcode>
+<barcode>4825000003297</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20832,7 +20889,7 @@
 <offer id="1771334">
 <code>1771334</code>
 <vendor_code>PR-1771334</vendor_code>
-<barcode>4825000003297</barcode>
+<barcode>4825000003303</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20898,7 +20955,7 @@
 <offer id="1771335">
 <code>1771335</code>
 <vendor_code>PR-1771335</vendor_code>
-<barcode>4825000003303</barcode>
+<barcode>4825000003310</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -20964,7 +21021,7 @@
 <offer id="1771336">
 <code>1771336</code>
 <vendor_code>PR-1771336</vendor_code>
-<barcode>4825000003310</barcode>
+<barcode>4825000003327</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21030,7 +21087,7 @@
 <offer id="1771337">
 <code>1771337</code>
 <vendor_code>PR-1771337</vendor_code>
-<barcode>4825000003327</barcode>
+<barcode>4825000003334</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21096,7 +21153,7 @@
 <offer id="1771338">
 <code>1771338</code>
 <vendor_code>PR-1771338</vendor_code>
-<barcode>4825000003334</barcode>
+<barcode>4825000003341</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21161,7 +21218,7 @@
 <offer id="1771339">
 <code>1771339</code>
 <vendor_code>PR-1771339</vendor_code>
-<barcode>4825000003341</barcode>
+<barcode>4825000003358</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21226,7 +21283,7 @@
 <offer id="1771340">
 <code>1771340</code>
 <vendor_code>PR-1771340</vendor_code>
-<barcode>4825000003358</barcode>
+<barcode>4825000003365</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21295,7 +21352,7 @@
 <offer id="1771341">
 <code>1771341</code>
 <vendor_code>PR-1771341</vendor_code>
-<barcode>4825000003365</barcode>
+<barcode>4825000003372</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21362,7 +21419,7 @@
 <offer id="1771342">
 <code>1771342</code>
 <vendor_code>PR-1771342</vendor_code>
-<barcode>4825000003372</barcode>
+<barcode>4825000003389</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21429,7 +21486,7 @@
 <offer id="1771343">
 <code>1771343</code>
 <vendor_code>PR-1771343</vendor_code>
-<barcode>4825000003389</barcode>
+<barcode>4825000003396</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21496,7 +21553,7 @@
 <offer id="1771344">
 <code>1771344</code>
 <vendor_code>PR-1771344</vendor_code>
-<barcode>4825000003396</barcode>
+<barcode>4825000003402</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21563,7 +21620,7 @@
 <offer id="1771345">
 <code>1771345</code>
 <vendor_code>PR-1771345</vendor_code>
-<barcode>4825000003402</barcode>
+<barcode>4825000003419</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21630,7 +21687,7 @@
 <offer id="1771346">
 <code>1771346</code>
 <vendor_code>PR-1771346</vendor_code>
-<barcode>4825000003419</barcode>
+<barcode>4825000003426</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21697,7 +21754,7 @@
 <offer id="1771347">
 <code>1771347</code>
 <vendor_code>PR-1771347</vendor_code>
-<barcode>4825000003426</barcode>
+<barcode>4825000003433</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21763,7 +21820,7 @@
 <offer id="1771348">
 <code>1771348</code>
 <vendor_code>PR-1771348</vendor_code>
-<barcode>4825000003433</barcode>
+<barcode>4825000003440</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21829,7 +21886,7 @@
 <offer id="1771349">
 <code>1771349</code>
 <vendor_code>PR-1771349</vendor_code>
-<barcode>4825000003440</barcode>
+<barcode>4825000003457</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21899,7 +21956,7 @@
 <offer id="1771350">
 <code>1771350</code>
 <vendor_code>PR-1771350</vendor_code>
-<barcode>4825000003457</barcode>
+<barcode>4825000003464</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -21966,7 +22023,7 @@
 <offer id="1771351">
 <code>1771351</code>
 <vendor_code>PR-1771351</vendor_code>
-<barcode>4825000003464</barcode>
+<barcode>4825000003471</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22033,7 +22090,7 @@
 <offer id="1771352">
 <code>1771352</code>
 <vendor_code>PR-1771352</vendor_code>
-<barcode>4825000003471</barcode>
+<barcode>4825000003488</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22100,7 +22157,7 @@
 <offer id="1771353">
 <code>1771353</code>
 <vendor_code>PR-1771353</vendor_code>
-<barcode>4825000003488</barcode>
+<barcode>4825000003495</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22167,7 +22224,7 @@
 <offer id="1771354">
 <code>1771354</code>
 <vendor_code>PR-1771354</vendor_code>
-<barcode>4825000003495</barcode>
+<barcode>4825000003501</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22234,7 +22291,7 @@
 <offer id="1771355">
 <code>1771355</code>
 <vendor_code>PR-1771355</vendor_code>
-<barcode>4825000003501</barcode>
+<barcode>4825000003518</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22301,7 +22358,7 @@
 <offer id="1771356">
 <code>1771356</code>
 <vendor_code>PR-1771356</vendor_code>
-<barcode>4825000003518</barcode>
+<barcode>4825000003525</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22367,7 +22424,7 @@
 <offer id="1771357">
 <code>1771357</code>
 <vendor_code>PR-1771357</vendor_code>
-<barcode>4825000003525</barcode>
+<barcode>4825000003532</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>
@@ -22433,7 +22490,7 @@
 <offer id="1771358">
 <code>1771358</code>
 <vendor_code>PR-1771358</vendor_code>
-<barcode>4825000003532</barcode>
+<barcode>4825000003549</barcode>
 <category>Системнi блоки</category>
 <brand>ALMATECH</brand>
 <availability>Є в наявності</availability>

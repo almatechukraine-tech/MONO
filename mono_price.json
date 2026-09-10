@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T10:05:49Z",
-  "total": 352,
+  "updatedAt": "2026-09-10T10:37:46Z",
+  "total": 353,
   "data": [
     {
       "code": "1281001",
@@ -19,6 +19,19 @@
       "code": "1281002",
       "price": 2370.0,
       "old_price": 3199.0,
+      "availability": true,
+      "stock": 10,
+      "warehouses": null,
+      "warranty_type": "merchant",
+      "warranty_period": 12,
+      "max_pay_in_parts": 16,
+      "days_to_dispatch": 4,
+      "manufacture": null
+    },
+    {
+      "code": "1281003",
+      "price": 5299.0,
+      "old_price": 5999.0,
       "availability": true,
       "stock": 10,
       "warehouses": null,
