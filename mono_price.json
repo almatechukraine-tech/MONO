@@ -61,11 +61,11 @@
       "price": 64995.0,
       "old_price": 69999.0,
       "availability": true,
-      "stock": 1,
+      "stock": 0,
       "warehouses": [
         {
           "id": "553661",
-          "stock": 1
+          "stock": 0
         }
       ],
       "warranty_type": "merchant",
