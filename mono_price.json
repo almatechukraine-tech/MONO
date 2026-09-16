@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T11:14:32Z",
+  "updatedAt": "2026-09-16T09:17:11Z",
   "total": 354,
   "data": [
     {
@@ -40,8 +40,8 @@
     },
     {
       "code": "1281003",
-      "price": 5299.0,
-      "old_price": 5999.0,
+      "price": 4299.0,
+      "old_price": 5599.0,
       "availability": true,
       "stock": 10,
       "warehouses": [
@@ -61,11 +61,11 @@
       "price": 64995.0,
       "old_price": 69999.0,
       "availability": true,
-      "stock": 0,
+      "stock": 10,
       "warehouses": [
         {
           "id": "553661",
-          "stock": 0
+          "stock": 10
         }
       ],
       "warranty_type": "merchant",
